@@ -1,4 +1,4 @@
-#Oracle DataBase Lab (Training Edition)
+#Oracle DataBase Lab (Training Edition - Academic Edition)
 
     Training repository for Oracle Database administration,
     testing, change management and Git workflows.
